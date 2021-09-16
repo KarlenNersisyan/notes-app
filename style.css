@@ -46,7 +46,6 @@ h1 {
   margin: 30px 20px;
   height: 400px;
   width: 400px;
-  overflow-y: scroll;
 }
 
 .note .tools {
