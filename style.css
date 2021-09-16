@@ -31,9 +31,13 @@ body {
 }
 
 h1 {
-  font-size: 50px;
+  position: absolute;
+  font-size: 43px;
   color: white;
-  text-shadow: 3px 3px rgb(195, 0, 0);
+  text-shadow: 3px 3px rgb(195 0 0);
+  left: 50%;
+  top: -25px;
+  transform: translate(-50%);
 }
 
 .note {
